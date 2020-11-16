@@ -18,12 +18,12 @@ Here are some ideas to get you started:
     <tr>
         <td width="50%">
             <p align="left">
-                <img src="https://github-readme-stats.vercel.app/api?username=yclgkd&show_icons=true&theme=vue-dark">
+                <img src="https://github-readme-stats.vercel.app/api?username=yclgkd&show_icons=true&theme=default">
             </p>
         </td>
         <td width="50%">
             <p align="left">
-              <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yclgkd&show_icons=true&theme=vue-dark&layout=compact">
+              <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yclgkd&show_icons=true&theme=vue-dark&layout=default">
             </p>
         </td>
     </tr>
