@@ -28,4 +28,7 @@ Here are some ideas to get you started:
         </td>
     </tr>
 </table>
-![pv](https://pageview.vercel.app/?github_user=yclgkd)
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/jatin2003/count.svg" />
+</p>
