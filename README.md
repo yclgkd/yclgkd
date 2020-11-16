@@ -28,7 +28,4 @@ Here are some ideas to get you started:
         </td>
     </tr>
 </table>
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/jatin2003/count.svg" />
-</p>
+[![Visits Badge](https://badges.pufler.dev/visits/yclgkd/git-badges)](https://badges.pufler.dev)
