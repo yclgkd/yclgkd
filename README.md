@@ -23,7 +23,7 @@ Here are some ideas to get you started:
         </td>
         <td width="50%">
             <p align="left">
-              <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yclgkd&show_icons=true&theme=vue-dark&layout=default">
+              <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yclgkd&show_icons=true&theme=default&layout=compact">
             </p>
         </td>
     </tr>
