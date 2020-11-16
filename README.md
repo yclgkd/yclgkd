@@ -29,4 +29,3 @@ Here are some ideas to get you started:
     </tr>
 </table>
 
-[![Visits Badge](https://badges.pufler.dev/visits/yclgkd/yclgkd)](https://www.yaochunlai.cn)
