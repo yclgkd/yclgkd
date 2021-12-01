@@ -1,5 +1,8 @@
 ### Hi there, I'm Brian 👋
 
+- 🌱 I’m currently learning JavaScript & TypeScript & Vue & React.
+- ✨ This is my new blog: [掘金-Brian](https://juejin.cn/user/131597125566071/posts).
+
 <!--
 **yclgkd/yclgkd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
