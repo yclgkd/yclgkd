@@ -1,6 +1,6 @@
 ### Hi there, I'm Brian 👋
 
-🌱 I’m currently learning JavaScript & TypeScript & Vue & React.
+🌱 I’m currently learning JavaScript & TypeScript & React & Next.js.
 
 <table width="100%"> 
     <tr>
