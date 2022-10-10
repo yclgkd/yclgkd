@@ -40,8 +40,3 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <b>My DevCard</b>
 
 <a href="https://app.daily.dev/yclgkd"><img src="https://api.daily.dev/devcards/64a0f51d8d794745978889465fe587ba.png?r=dgv" width="400" alt="Brian Yao's Dev Card"/></a>
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/brianyao"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-
