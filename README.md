@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =================================================================================================================================
 
 *   🌍  I'm based in Shanghai
-*   ✉️  You can contact me at [chunlai0928@gmail.com](mailto:chunlai0928@gmail.com)
+*   ✉️  You can contact me at [me@brianyao.tech](mailto:me@brianyao.tech)
 *   🌱 I’m currently learning JavaScript & TypeScript & React & Next.js.
 
 ### Skills
