@@ -1,9 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Brian Yao
 =================================================================================================================================
 
-*   🌍  I'm a front-end engineer based in Shanghai.
-*   ✉️  You can contact me at [me@brianyao.tech](mailto:me@brianyao.tech).
-*   🌱 I’m currently learning TypeScript & React & Next.js.
+<div>🌍  I'm a front-end engineer based in Shanghai.<div>
+<div>✉️  You can contact me at <a href="mailto:me@brianyao.tech" aria-label="Email Me."><img src="./addr.png" height="10"/></a>.</div>
+<div>🌱  I’m currently learning TypeScript & React & Next.js.</div>
 
 ### Skills
 
