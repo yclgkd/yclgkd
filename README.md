@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <div>🌍  I'm a front-end engineer based in Shanghai.<div>
 <div>✉️  You can contact me at <a href="mailto:me@brianyao.tech" aria-label="Email Me."><img src="./addr.png" height="10"/></a>.</div>
-<div>🌱  I’m currently learning TypeScript & React & Next.js.</div>
+<div>🌱  I’m currently learning Java.</div>
 
 ### Skills
 
